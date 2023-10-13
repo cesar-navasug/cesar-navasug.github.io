@@ -1,0 +1,34 @@
+/* estilos.css */
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  .apli-web-cesar {
+    font-weight: bold;
+  }
+   
+/* estilos.css */
+body {
+    background-color: #FF7F50; /* Color- Para el fondo*/
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #333;
+}
+
+.apli-web-cesar {
+    font-weight: bold;
+}
+img.com {
+    background-image: url(imagen/imagen.jpeg); /* imagen*/
+    background-size: contain;
+    background-repeat: no- repeat;
+    height: 800px;
+    width: 500px;
+}
